@@ -1,0 +1,1 @@
+Main Topics include :- Emit and observers - Lifecycle hooks - v-directives - Reactivity - watch
